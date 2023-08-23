@@ -11,3 +11,7 @@ p {
 .gray {
   color: gray;
 }
+
+#third {
+    font-style: italic;
+}
