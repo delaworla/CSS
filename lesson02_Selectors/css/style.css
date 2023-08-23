@@ -11,7 +11,7 @@ p {
   color: purple;
 }
 
-p span {
+.highlight span {
   text-transform: uppercase;
   background-color: gold;
 }
