@@ -2,14 +2,19 @@ body {
   font-size: 22px;
 }
 
-h1, h2 {
-    color:blueviolet
+h1,
+h2 {
+  color: blueviolet;
 }
 
 p {
   color: purple;
 }
 
+p span {
+  text-transform: uppercase;
+  background-color: gold;
+}
 /* classes must start with a .*/
 
 .gray {
@@ -17,5 +22,5 @@ p {
 }
 
 #third {
-    font-style: italic;
+  font-style: italic;
 }
