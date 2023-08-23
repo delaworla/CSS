@@ -11,10 +11,11 @@ p {
   color: purple;
 }
 
-.highlight span {
+.highlight {
   text-transform: uppercase;
   background-color: gold;
 }
+
 /* classes must start with a .*/
 
 .gray {
