@@ -6,6 +6,8 @@ p {
   color: purple;
 }
 
+/* classes must start with a .*/
+
 .gray {
   color: gray;
 }
