@@ -16,7 +16,7 @@ h2 {
 }
 
 p {
-  color: purple;
+  color: purple!important;
 }
 
 .highlight {
