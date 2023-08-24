@@ -1,10 +1,9 @@
-body {
+html {
   font-size: 22px;
 }
 
-
-button, input, textarea, select {
-  font: inherit;
+body {
+  
 }
 
 h1,
