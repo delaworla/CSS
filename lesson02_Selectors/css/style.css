@@ -1,9 +1,10 @@
-* {
-  border:1px solid red;
-}
-
 body {
   font-size: 22px;
+}
+
+
+button, input, textarea, select {
+  font: inherit;
 }
 
 h1,
