@@ -11,6 +11,8 @@ h1 {
 }
 
 main { 
+    width: 50vw;
+    background-color: skyblue;
     font-size: 2rem;
 }
 
