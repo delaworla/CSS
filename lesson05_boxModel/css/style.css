@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
 }
 
 .container {
@@ -10,6 +9,7 @@
   font-size: 1.5rem;
   padding: 1.5em;
   margin-top: 1.5em;
+  margin-right: 2em;
 }
 
 /* 
