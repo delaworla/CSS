@@ -11,3 +11,11 @@
   padding: 1.5rem;
   margin: 1.5rem;
 }
+
+/* 
+to clarify, 1em will be equal to the rem
+you set it to so
+1em = 1.5rem
+2em = 3rem
+so em looks at the set rem
+*/
