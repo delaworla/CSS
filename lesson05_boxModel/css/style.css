@@ -6,6 +6,7 @@
 
 .container {
   border: dashed red;
+  border-top: 5px solid;
   font-size: 1.5rem;
   margin: 1.5em;
   /* margin-top: 1.5em;
