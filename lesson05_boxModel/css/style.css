@@ -30,5 +30,7 @@ outlines dont take up space and are not calculated like the others in the box mo
 
 .circle {
   background-color: gold;
-  
+  width: 100px;
+  height: 100px;
+
 }
