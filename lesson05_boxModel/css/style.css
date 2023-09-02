@@ -5,7 +5,7 @@
 }
 
 .container {
-  border: 2px dashed red;
+  border: dashed red;
   font-size: 1.5rem;
   margin: 1.5em;
   /* margin-top: 1.5em;
