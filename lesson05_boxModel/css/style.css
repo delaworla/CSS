@@ -33,6 +33,7 @@ outlines dont take up space and are not calculated like the others in the box mo
   width: 100px;
   height: 100px;
   border: 2px solid #000;
+  outline: 2px solid red;
   
 
 }
